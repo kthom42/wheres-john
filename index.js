@@ -1,6 +1,6 @@
 const connection = require("./db/connection");
 const { prompt } = require("inquirer");
-const dotenv = require("dotenv");
+// const dotenv = require("dotenv");
 const db = require("./db");
 require("console.table");
 
